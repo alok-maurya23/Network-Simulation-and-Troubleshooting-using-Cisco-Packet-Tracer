@@ -36,9 +36,6 @@ You, being very cautious, decide to simulate the topology on Cisco Packet Tracer
 ## How to run
 Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [network.pkt](../master/network.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
 
-## Contact
-You can get in touch with me on my LinkedIn Profile: [Farhan Shoukat](https://www.linkedin.com/in/farhan-shoukat/)
 
-## License
-[MIT](../master/LICENSE)
-Copyright (c) 2018 Farhan Shoukat
+
+
